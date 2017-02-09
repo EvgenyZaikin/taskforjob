@@ -1,0 +1,18 @@
+*{margin:0; padding:0; list-style-type:none;}
+
+table{float:left;}
+td{border:1px solid grey; padding:5px;}
+
+#addForm{border:1px solid grey; width:350px; padding:5px; float:right;}
+#addForm input{width:95%; margin-bottom:10px; padding:5px;}
+#addForm p{margin-bottom:10px;}
+#addForm select{width:99%; margin-bottom:10px; padding:5px;}
+
+.deleteForm input{padding:5px;}
+
+.redButton{padding:5px; text-decoration:none; border:1px solid grey; background-color:lightgrey;}
+
+#redForm{border:1px solid grey; width:350px; padding:5px; float:left; margin-top:34px;}
+#redForm input{width:95%; margin-bottom:10px; padding:5px;}
+#redForm p{margin-bottom:10px;}
+#redForm select{width:99%; margin-bottom:10px; padding:5px;}
